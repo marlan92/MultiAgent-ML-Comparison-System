@@ -77,19 +77,6 @@ Models were compared using:
 - Test Accuracy
 - Overfitting Difference
 
-## Results
-
-### Best Overall Model
-
-**Random Forest on the Normalized Dataset**
-
-Performance:
-
-- Test Accuracy: 0.8268
-- F1 Score: 0.7597
-
-The model achieved the best balance between accuracy, generalization, and overfitting control.
-
 ## Technologies Used
 
 - Python
@@ -105,9 +92,3 @@ The model achieved the best balance between accuracy, generalization, and overfi
 ├── MultiAgentSistem.ipynb
 ├── Proiect_Multiagent.pdf
 └── README.md
-```
-
-## Authors
-
-- Andreea Malan
-- Georgiana Berciu
