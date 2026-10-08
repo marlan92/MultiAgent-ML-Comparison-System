@@ -85,11 +85,13 @@ Models were compared using:
 - Scikit-Learn
 - Matplotlib
 - Seaborn
-##Berciu Georgiana && Malan Andreea
+  
+
 ## Repository Structure
 
 ```text
 ├── MultiAgentSistem.ipynb
 ├── Proiect_Multiagent.pdf
 └── README.md
+
 
